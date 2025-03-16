@@ -4,4 +4,5 @@ Here are some of the solutions we offer:
 - Chatbots
 - Retrieval Augmented Generation (RAG)
 - [Translate documents and images from any language to English](https://certify.streamlit.app)
-- Transcribe audio data to text using a variety of UK accents.
+- Transcribe audio data to text using a variety of British accents.
+  * [Performance analysis across diverse accents and speaker traits](https://watermark.silverchair.com/025206_1_10.0024876.pdf) (Research project highlighting some of the work)  
