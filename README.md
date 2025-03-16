@@ -12,3 +12,6 @@ Here are some of the solutions we offer:
 Most of our customers are based in the US, Europe and the UK. We provide 24x5 support (customer local hours) and have redundant systems in place to minimize outages.
 
 We adhere to SOC 2 Type 1 compliance and ensure that all documents sent across are encrypted and protected. We don't store customer data where possible and use only EU/UK data centers for EU/UK customers using AWS and Azure.
+
+## Contact us
+If you have any sales enquries, or want to try out our AI solutions, get in touch with the sales teams using zoeailabs@gmail.com
