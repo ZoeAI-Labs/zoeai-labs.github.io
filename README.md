@@ -20,11 +20,13 @@ If you have any sales enquries, or want to try out our AI solutions, get in touc
 Some of our apps are hosted on Streamlit. Streamlit is hosted on Google Cloud Platform (GCP), which provides a secure and compliant infrastructure. GCP’s data centers hold numerous security certifications, including ISO 27001 (information security management) and SOC 1/SOC 2 attestations​. This means the underlying hardware, network, and physical security meet strict industry standards. Streamlit has achieved SOC 2 Type I compliance, which focuses on security and confidentiality controls​. These certifications provide assurance that the service has appropriate safeguards for protecting customer data. When building a Streamlit app, you can point to these certifications to satisfy compliance officers that the hosting platform meets baseline security requirements of frameworks like ISO 27001 and SOC 2.
 
 ### What about GDPR complaince?
-Some of our apps are hosted on Streamlit. Streamlit supports the GDPR principle of “privacy by design” by keeping data secure by default. Streamlit’s ISO 27001 certification contributes to GDPR compliance.
+Some of our apps are hosted on Streamlit. Streamlit supports the GDPR principle of “privacy by design” by keeping data secure by default. Streamlit’s ISO 27001 certification contributes to GDPR compliance, along with GDPR compliance by GCP.
 
-### What is the difference between the free version and Enterprise version **
+### What is the difference between the free version and Enterprise version?
 We ensure that the look and feel of the Free version is similar to the Enterprise version, so there are no surprises.
 The enterprise version differs from the free version in a couple of ways:
 * Specific features that you have requested and/or paid for are only available in the Enterprise version.
-* The Enterprise Version is in Private App Mode and Invite-only Access.
+* The Enterprise Version is in Private App Mode and Invite-only Access. This means that only those with a paid-for email address get access to the Enterprise App.
 
+### What happens to uploaded files?
+Uploaded files are stored in memory and are not stored or processed as file objects. More specifically, the data is stored in Python via a BytesIO object, which is stored in RAM. This means it will only persist in RAM until it is overwritten by another session or the container is shutdown.
