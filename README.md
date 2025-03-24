@@ -14,3 +14,17 @@ We adhere to SOC 2 Type 1 compliance and ensure that all documents sent across a
 
 ## Contact us
 If you have any sales enquries, or want to try out our AI solutions, get in touch with the sales teams using zoeailabs@gmail.com
+
+## FAQs
+** What are the AI Apps Security and Compliance? **
+Some of our apps are hosted on Streamlit. Streamlit is hosted on Google Cloud Platform (GCP), which provides a secure and compliant infrastructure. GCP’s data centers hold numerous security certifications, including ISO 27001 (information security management) and SOC 1/SOC 2 attestations​. This means the underlying hardware, network, and physical security meet strict industry standards. Streamlit has achieved SOC 2 Type I compliance, which focuses on security and confidentiality controls​. These certifications provide assurance that the service has appropriate safeguards for protecting customer data. When building a Streamlit app, you can point to these certifications to satisfy compliance officers that the hosting platform meets baseline security requirements of frameworks like ISO 27001 and SOC 2.
+
+** What about GDPR complaince?
+Some of our apps are hosted on Streamlit. Streamlit supports the GDPR principle of “privacy by design” by keeping data secure by default. Streamlit’s ISO 27001 certification contributes to GDPR compliance.
+
+** What is the difference between the free version and Enterprise version **
+We ensure that the look and feel of the Free version is similar to the Enterprise version, so there are no surprises.
+The enterprise version differs from the free version in a couple of ways:
+* Specific features that you have requested and/or paid for are only available in the Enterprise version.
+* The Enterprise Version is in Private App Mode and Invite-only Access.
+
