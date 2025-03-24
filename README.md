@@ -27,6 +27,7 @@ We ensure that the look and feel of the Free version is similar to the Enterpris
 The enterprise version differs from the free version in a couple of ways:
 * Specific features that you have requested and/or paid for are only available in the Enterprise version.
 * The Enterprise Version is in Private App Mode and Invite-only Access. This means that only those with a paid-for email address get access to the Enterprise App.
+* Upon cancellation of the AI App service, the Enterprise Version of the App is deleted along with the account.
 
 ### What happens to uploaded files?
 Uploaded files are stored in memory and are not stored or processed as file objects. More specifically, the data is stored in Python via a BytesIO object, which is stored in RAM. This means it will only persist in RAM until it is overwritten by another session or the container is shutdown.
