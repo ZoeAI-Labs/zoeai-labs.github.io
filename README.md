@@ -31,3 +31,6 @@ The enterprise version differs from the free version in a couple of ways:
 
 ### What happens to uploaded files?
 Uploaded files are stored in memory and are not stored or processed as file objects. More specifically, the data is stored in Python via a BytesIO object, which is stored in RAM. This means it will only persist in RAM until it is overwritten by another session or the container is shutdown.
+
+### Is my data shared with any organisation?
+No. ZoeAI Labs does not have access to your data or your documents. See above. The apps are deployed using Streamlit which are stored in GCP Private Cloud. 
