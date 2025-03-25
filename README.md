@@ -35,5 +35,9 @@ Uploaded files are stored in memory and are not stored or processed as file obje
 ### Is my data shared with any organisation?
 No. ZoeAI Labs does not have access to your data or your documents. See FAQ "What happens to uploaded files". The apps are deployed using Streamlit which are stored in GCP Private Cloud. 
 
+### Is customer data encrypted?
+Yes, all data is encrypted in Transit and at Rest. All traffic to and from the AI apps is transmitted securely using HTTPS/TLS encryption. They are served exclusively over TLS (at least v1.2) with strong cipher suites and HSTS enabled. This ensures that any data that is sent to our received by our app (e.g. file uploads, API responses) is encrypted while traversing the internet. When interacting with ours apps you do so over a secure channel, mitigating eavesdropping and man-in-the-middle attacks. 
+Even though our apps do not persist user-provided data, any residual or temporary files in the container’s filesystem (for example, the source code snapshot) are protected by encryption at rest. Encryption keys are managed by the cloud provider (GCP).
+
 ### Do you provide audits?
 Yes, these are available for the Enterprise App on request. We maintain records of who has access to the Enterprise app from the customer side. We also maintain a list of who has made changes to the app from ZoeAI Labs, and update this list as roles change, and removing access for anyone who no longer needs it. 
