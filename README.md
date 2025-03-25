@@ -22,9 +22,9 @@ Some of our apps are hosted on Streamlit. Streamlit is hosted on Google Cloud Pl
 ### What about GDPR complaince?
 We are fully GDPR compliant. Here is a our [Data Processing Agreement](GDPR_DPA_Agreement.pdf)  
 
-### What is the difference between the free version and Enterprise version of the AI Apps?
+### What is the difference between the Free version and Enterprise version of the AI Apps?
 We ensure that the look and feel of the Free version is similar to the Enterprise version, so there are no surprises.
-The enterprise version differs from the free version in a couple of ways:
+The Enterprise version differs from the Free version in a couple of ways:
 * Specific features that you have requested and/or paid for are only available in the Enterprise version.
 * The Enterprise Version is in Private App Mode and Invite-only Access. This means that only those with a paid-for email address get access to the Enterprise App.
 * Upon cancellation of the AI App Subscription Service, the Enterprise Version of the App is deleted along with the account.
