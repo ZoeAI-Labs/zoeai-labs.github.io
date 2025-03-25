@@ -34,3 +34,6 @@ Uploaded files are stored in memory and are not stored or processed as file obje
 
 ### Is my data shared with any organisation?
 No. ZoeAI Labs does not have access to your data or your documents. See FAQ "What happens to uploaded files". The apps are deployed using Streamlit which are stored in GCP Private Cloud. 
+
+### Do you provide audits?
+Yes, these are available for the Enterprise App on request. We maintain records of who has access to the Enterprise app from the customer side. We also maintain a list of who has made changes to the app from ZoeAI Labs, and update this list as roles change, and removing access for anyone who no longer needs it. 
