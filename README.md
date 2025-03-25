@@ -20,7 +20,7 @@ If you have any sales enquries, or want to try out our AI solutions, get in touc
 Some of our apps are hosted on Streamlit. Streamlit is hosted on Google Cloud Platform (GCP), which provides a secure and compliant infrastructure. GCP’s data centers hold numerous security certifications, including ISO 27001 (information security management) and SOC 1/SOC 2 attestations​. This means the underlying hardware, network, and physical security meet strict industry standards. Streamlit has achieved SOC 2 Type I compliance, which focuses on security and confidentiality controls​. These certifications provide assurance that the service has appropriate safeguards for protecting customer data. 
 
 ### What about GDPR complaince?
-Some of our apps are hosted on Streamlit. Streamlit supports the GDPR principle of “privacy by design” by keeping data secure by default. Streamlit’s ISO 27001 certification contributes to GDPR compliance, along with GDPR compliance by GCP.
+We are fully GDPR compliant. Here is a our [Data Processing Agreement]("GDPR_DPA_Agreement.pdf")  
 
 ### What is the difference between the free version and Enterprise version?
 We ensure that the look and feel of the Free version is similar to the Enterprise version, so there are no surprises.
